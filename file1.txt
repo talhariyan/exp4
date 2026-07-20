@@ -1,1 +1,3 @@
 Initial commit
+First commit for merge conflict
+Second commit for merge conflict
